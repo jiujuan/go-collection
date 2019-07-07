@@ -4,8 +4,6 @@
 
 # awesome-go
 
----
-
 - https://awesome-go.com/   收集很多go的项目，并进行了分类
 - https://github.com/avelino/awesome-Go awesome-go.com的github源码地址
 - https://github.com/jobbole/awesome-go-cn awesome-go的中文翻译
@@ -19,15 +17,11 @@
 
 # go 存储项目
 
----
-
 - https://github.com/gostor/awesome-go-storage 开源的Go存储项目
 
 
 
 # go源码分析
-
----
 
 - https://github.com/cch123/golang-notes 主要是源码分析，可能也会有一些使用上的知识点
 - https://github.com/xuesongbj/Go-Notes go源码剖析
