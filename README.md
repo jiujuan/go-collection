@@ -15,7 +15,7 @@
 
 
 
-# go 存储项目
+# go存储项目
 
 - https://github.com/gostor/awesome-go-storage 开源的Go存储项目
 
@@ -31,10 +31,15 @@
 # go学习系列
 
 - https://tour.golang.org/welcome/1 go tour
+
 - https://tour.go-zh.org/welcome/1  go tour 中文版
+
 - https://gobyexample.com/ Go by Example
+
 - https://github.com/rujews/go-in-action-notes Go语言实战笔记
 
 - https://tutorialedge.net/course/golang/  you can get started with the Go programming language
+
+- <http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/> go初学者经常犯的错误
 
   
