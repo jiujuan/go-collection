@@ -46,12 +46,27 @@
   
 # 微服务
 
+## go-micro
+
 - <https://github.com/micro-in-cn/tutorials>  Micro教程系列
   
 - <https://github.com/micro-in-cn/all-in-one> Micro最佳实践，本项目旨在以全面的视角向大家演示micro服务的开发，并尽可能介绍其功能。我们尝试由浅入深，从基础篇开始，每个目录对应一个级别的示例。
   
 - <https://micro.mu/blog/cn/>  Micro中文博客
+## go-kit
+
+- <https://juejin.im/post/5c861c93f265da2de7138615> go-kit系列教程
+
+- http://www.articlechain.cn/post/46.html  go-kit与grpc结合开发微服务
+
   
+# 其他
+
+- <https://www.alexedwards.net/blog/an-overview-of-go-tooling> go工具链
+  
+- <https://github.com/golang/go/wiki/CodeReviewComments> go官方语言编码规范
+  
+- <https://github.com/Unknwon/go-code-convention/blob/master/zh-CN/README.md>  无闻的go语言编码规范
   
   
   
