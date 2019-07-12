@@ -68,6 +68,8 @@
 - <https://github.com/golang/go/wiki/CodeReviewComments> go官方语言编码规范
   
 - <https://github.com/Unknwon/go-code-convention/blob/master/zh-CN/README.md>  无闻的go语言编码规范
+
+- <https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html>  high performance go workshop
   
   
   
