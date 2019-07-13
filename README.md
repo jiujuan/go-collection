@@ -60,7 +60,11 @@
 - http://www.articlechain.cn/post/46.html  go-kit与grpc结合开发微服务
 - http://go-kit.cn/  go-kit cn
 
-  
+
+# Go书籍
+- https://github.com/hantmac/Mastering_Go_ZH_CN Mastering Go 中文翻译版
+
+
 # 其他
 
 - <https://www.alexedwards.net/blog/an-overview-of-go-tooling> go工具链
