@@ -62,7 +62,9 @@
 
 
 # Go书籍
+- https://github.com/golang-china/gopl-zh go语言圣经
 - https://github.com/hantmac/Mastering_Go_ZH_CN Mastering Go 中文翻译版
+- https://github.com/chai2010/advanced-go-programming-book/blob/master/SUMMARY.md  Go语言高级编程
 
 
 # 其他
