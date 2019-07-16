@@ -61,13 +61,15 @@
 - http://go-kit.cn/  go-kit cn
 
 
-# Go书籍
+## Go书籍
 - https://github.com/golang-china/gopl-zh go语言圣经
 - https://github.com/hantmac/Mastering_Go_ZH_CN Mastering Go 中文翻译版
 - https://github.com/chai2010/advanced-go-programming-book/blob/master/SUMMARY.md  Go语言高级编程
+- https://github.com/astaxie/build-web-application-with-golang Go Web编程
+- https://github.com/astaxie/go-best-practice go实战开发
 
 
-# 其他
+## 其他
 
 - <https://www.alexedwards.net/blog/an-overview-of-go-tooling> go工具链
   
