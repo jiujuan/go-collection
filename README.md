@@ -25,6 +25,7 @@
 
 - https://github.com/cch123/golang-notes 主要是源码分析，可能也会有一些使用上的知识点
 - https://github.com/xuesongbj/Go-Notes go源码剖析
+- https://zhuanlan.zhihu.com/goroutine golang数据结构内部实现
 
 
 
