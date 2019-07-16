@@ -5,8 +5,11 @@
 ## awesome-go
 
 - https://awesome-go.com/   收集很多go的项目，并进行了分类
+
 - https://github.com/avelino/awesome-Go awesome-go.com的github源码地址
+
 - https://github.com/jobbole/awesome-go-cn awesome-go的中文翻译
+
 - https://github.com/yinggaozhen/awesome-go-cn  awesome-go的中文翻译
 
 
@@ -24,7 +27,9 @@
 ## go源码分析
 
 - https://github.com/cch123/golang-notes 主要是源码分析，可能也会有一些使用上的知识点
+
 - https://github.com/xuesongbj/Go-Notes go源码剖析
+
 - https://zhuanlan.zhihu.com/goroutine golang数据结构内部实现
 
 
@@ -64,9 +69,13 @@
 
 ## Go书籍
 - https://github.com/golang-china/gopl-zh go语言圣经
+
 - https://github.com/hantmac/Mastering_Go_ZH_CN Mastering Go 中文翻译版
+
 - https://github.com/chai2010/advanced-go-programming-book/blob/master/SUMMARY.md  Go语言高级编程
+
 - https://github.com/astaxie/build-web-application-with-golang Go Web编程
+
 - https://github.com/astaxie/go-best-practice go实战开发
 
 
