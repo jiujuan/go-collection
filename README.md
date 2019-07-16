@@ -42,6 +42,8 @@
 
 - https://gobyexample.com/ Go by Example
 
+- https://github.com/Unknwon/go-fundamental-programming Go编程基础 视频教程，作者：无闻
+
 - https://github.com/rujews/go-in-action-notes Go语言实战笔记
 
 - https://tutorialedge.net/course/golang/  you can get started with the Go programming language
@@ -68,6 +70,8 @@
 
 
 ## Go书籍
+- https://github.com/Unknwon/the-way-to-go_ZH_CN Go入门指南
+
 - https://github.com/golang-china/gopl-zh go语言圣经
 
 - https://github.com/hantmac/Mastering_Go_ZH_CN Mastering Go 中文翻译版
