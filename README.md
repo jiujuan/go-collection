@@ -50,6 +50,8 @@
 
 - <http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/> go初学者经常犯的错误
 
+- https://hackr.io/tutorials/learn-golang 聚合了多套Golang教程
+
   
   
 ## 微服务
