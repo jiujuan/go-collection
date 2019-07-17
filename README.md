@@ -86,6 +86,8 @@
 
 - https://github.com/astaxie/go-best-practice go实战开发
 
+- https://github.com/dariubs/GoBooks 外国小哥搜集的一个go books合集
+
 
 ## 其他
 
