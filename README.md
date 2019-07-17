@@ -74,6 +74,8 @@
 
 
 ## Go书籍
+- https://github.com/dariubs/GoBooks 外国小哥搜集的一个go books合集
+
 - https://github.com/Unknwon/the-way-to-go_ZH_CN Go入门指南
 
 - https://github.com/golang-china/gopl-zh go语言圣经
@@ -86,7 +88,6 @@
 
 - https://github.com/astaxie/go-best-practice go实战开发
 
-- https://github.com/dariubs/GoBooks 外国小哥搜集的一个go books合集
 
 
 ## 其他
