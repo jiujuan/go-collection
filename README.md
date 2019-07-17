@@ -52,6 +52,8 @@
 
 - https://hackr.io/tutorials/learn-golang 聚合了多套Golang教程
 
+- https://github.com/quii/learn-go-with-tests Learn Go with test-driven development [gitbook版](https://quii.gitbook.io/learn-go-with-tests) [中文版](https://studygolang.gitbook.io/learn-go-with-tests)
+
   
   
 ## 微服务
