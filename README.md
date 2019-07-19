@@ -58,6 +58,8 @@
 
 - [go语言基础学习](https://blog.csdn.net/u010986776/article/details/82318038)
 
+- [go语言高级特性学习](https://blog.csdn.net/u010986776/article/category/8004337)
+
 
 
 ## go项目实战
