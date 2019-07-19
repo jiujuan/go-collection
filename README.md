@@ -63,6 +63,8 @@
 
 - [golang program](http://www.golangprograms.com)
 
+- [golang 项目实战简明指南](http://litang.me/post/golang-project-guide/)
+
   
   
 ## 微服务
