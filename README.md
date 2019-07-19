@@ -2,6 +2,12 @@
 
 ## 目录
 - [awesome-go list](#awesome-go)
+- [awesome-go存储项目](#go存储项目)
+- [go源码分析](#go源码分析)
+- [go基础学习系列](#go基础学习系列)
+- [微服务](#微服务)
+  - [go-micro](#go-micro)
+  - [go-kit](#go-kit)
 
 
 ## awesome-go list
