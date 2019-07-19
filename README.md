@@ -69,36 +69,36 @@
 
 - [go-kit系列教程](https://juejin.im/post/5c861c93f265da2de7138615)
 
-- http://www.articlechain.cn/post/46.html  go-kit与grpc结合开发微服务
-- http://go-kit.cn/  go-kit cn
+- [go-kit与grpc结合开发微服务](http://www.articlechain.cn/post/46.html)
+- [go-kit cn](http://go-kit.cn/)
 
 
 ## Go书籍
-- https://github.com/dariubs/GoBooks 外国小哥搜集的一个go books合集
+- [go books集合](https://github.com/dariubs/GoBooks)
 
-- https://github.com/Unknwon/the-way-to-go_ZH_CN Go入门指南
+- [the way to go 中文版](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 
-- https://github.com/golang-china/gopl-zh go语言圣经
+- [gopl 中文版](https://github.com/golang-china/gopl-zh) go语言圣经
 
-- https://github.com/hantmac/Mastering_Go_ZH_CN Mastering Go 中文翻译版
+- [Mastering Go 中文版](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-- https://github.com/chai2010/advanced-go-programming-book/blob/master/SUMMARY.md  Go语言高级编程
+- [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book/blob/master/SUMMARY.md)
 
-- https://github.com/astaxie/build-web-application-with-golang Go Web编程
+- [Go Web编程](https://github.com/astaxie/build-web-application-with-golang)
 
-- https://github.com/astaxie/go-best-practice go实战开发
+- [go实战开发](https://github.com/astaxie/go-best-practice)
 
 
 
 ## 其他
 
-- <https://www.alexedwards.net/blog/an-overview-of-go-tooling> go工具链
+- [go工具链](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
   
-- <https://github.com/golang/go/wiki/CodeReviewComments> go官方语言编码规范
+- [go官方语言编码规范](https://github.com/golang/go/wiki/CodeReviewComments)
   
-- <https://github.com/Unknwon/go-code-convention/blob/master/zh-CN/README.md>  无闻的go语言编码规范
+- [无闻的go语言编码规范](https://github.com/Unknwon/go-code-convention/blob/master/zh-CN/README.md)
 
-- <https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html>  high performance go workshop
+- [high performance go workshop-by dave](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html)  
   
   
   
