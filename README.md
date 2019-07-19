@@ -1,8 +1,10 @@
 一些awesome项目，一些学习系列的项目，一些go的blog等等，把他们收集起来以供gopher学习。
 
+## 目录
+- [awesome-go list](#awesome-go)
 
 
-## awesome-go
+## awesome-go list
 
 - [awesome-go 网站](https://awesome-go.com/)   收集很多go的项目，并进行了详细分类
 
