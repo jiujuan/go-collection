@@ -8,7 +8,8 @@
 - [微服务](#微服务)
   - [go-micro](#go-micro)
   - [go-kit](#go-kit)
-
+- [Go书籍](#Go书籍)
+- [其他](#其他)
 
 ## awesome-go list
 
