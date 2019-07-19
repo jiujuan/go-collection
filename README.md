@@ -12,7 +12,8 @@
 
 - [awesome-go 中文翻译2](https://github.com/yinggaozhen/awesome-go-cn)
 
-- [[awesome-go 一个更精细化项目](https://github.com/hackstoic/golang-open-source-projects) awesome-go的一个精细化项目，介绍更详细。本项目作为awesome-go的一个扩展，根据go语言中文社区提供的资料，还有互联网企业架构设计中的常见组件分类， 共精心挑选了155个开源项目
+- [awesome-go 一个更精细化项目](https://github.com/hackstoic/golang-open-source-projects) 
+> awesome-go的一个精细化项目，介绍更详细。本项目作为awesome-go的一个扩展，根据go语言中文社区提供的资料，还有互联网企业架构设计中的常见组件分类， 共精心挑选了155个开源项目
 
 
 
