@@ -56,6 +56,8 @@
 
 - [golang 项目实战简明指南](http://litang.me/post/golang-project-guide/)
 
+- [go语言基础学习](https://blog.csdn.net/u010986776/article/details/82318038)
+
 
 
 ## go项目实战
