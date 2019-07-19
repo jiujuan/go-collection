@@ -4,7 +4,7 @@
 
 ## awesome-go
 
-- https://awesome-go.com/   收集很多go的项目，并进行了分类
+- [awesome go 网站](https://awesome-go.com/)   收集很多go的项目，并进行了分类
 
 - https://github.com/avelino/awesome-Go awesome-go.com的github源码地址
 
