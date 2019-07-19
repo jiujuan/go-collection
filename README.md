@@ -4,7 +4,7 @@
 
 ## awesome-go
 
-- [awesome-go 网站](https://awesome-go.com/)   > 收集很多go的项目，并进行了分类
+- [awesome-go 网站](https://awesome-go.com/)   收集很多go的项目，并进行了详细分类
 
 - [awesome-go github地址](https://github.com/avelino/awesome-Go) awesome-go.com的github源码地址
 
@@ -45,13 +45,13 @@
 
 - [study Go programming language](https://tutorialedge.net/course/golang/) 
 
-- <http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/> go初学者经常犯的错误
+- [common mistakes in golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) go初学者经常犯的错误
 
-- https://hackr.io/tutorials/learn-golang 聚合了多套Golang教程
+- [聚合多套golang教程](https://hackr.io/tutorials/learn-golang)
 
-- https://github.com/quii/learn-go-with-tests Learn Go with test-driven development [gitbook版](https://quii.gitbook.io/learn-go-with-tests) [中文版](https://studygolang.gitbook.io/learn-go-with-tests)
+- [Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)  [gitbook版](https://quii.gitbook.io/learn-go-with-tests) [中文版](https://studygolang.gitbook.io/learn-go-with-tests)
 
-- http://www.golangprograms.com golang program
+- [golang program](http://www.golangprograms.com)
 
   
   
@@ -59,14 +59,15 @@
 
 ## go-micro
 
-- <https://github.com/micro-in-cn/tutorials>  Micro教程系列
+- [Micro教程系列](https://github.com/micro-in-cn/tutorials)
   
-- <https://github.com/micro-in-cn/all-in-one> Micro最佳实践，本项目旨在以全面的视角向大家演示micro服务的开发，并尽可能介绍其功能。我们尝试由浅入深，从基础篇开始，每个目录对应一个级别的示例。
+- [Micro最佳实践](https://github.com/micro-in-cn/all-in-one) Micro最佳实践，本项目旨在以全面的视角向大家演示micro服务的开发，并尽可能介绍其功能。我们尝试由浅入深，从基础篇开始，每个目录对应一个级别的示例。
   
-- <https://micro.mu/blog/cn/>  Micro中文博客
+- [Micro中文博客](https://micro.mu/blog/cn/)
+
 ## go-kit
 
-- <https://juejin.im/post/5c861c93f265da2de7138615> go-kit系列教程
+- [go-kit系列教程](https://juejin.im/post/5c861c93f265da2de7138615)
 
 - http://www.articlechain.cn/post/46.html  go-kit与grpc结合开发微服务
 - http://go-kit.cn/  go-kit cn
