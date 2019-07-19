@@ -12,40 +12,38 @@
 
 - [awesome-go 中文翻译2](https://github.com/yinggaozhen/awesome-go-cn)
 
-- [awesome-go 一个更精细化项目](https://github.com/hackstoic/golang-open-source-projects) 
-> awesome-go的一个精细化项目，介绍更详细。本项目作为awesome-go的一个扩展，根据go语言中文社区提供的资料，还有互联网企业架构设计中的常见组件分类， 共精心挑选了155个开源项目
+- [awesome-go 一个更精细化项目](https://github.com/hackstoic/golang-open-source-projects) awesome-go的一个精细化项目，介绍更详细。本项目作为awesome-go的一个扩展，根据go语言中文社区提供的资料，还有互联网企业架构设计中的常见组件分类， 共精心挑选了155个开源项目
 
 
 
 ## go存储项目
 
-- https://github.com/gostor/awesome-go-storage 开源的Go存储项目
+- [awesome-go-storage](https://github.com/gostor/awesome-go-storage) 开源的Go存储项目
 
 
 
 ## go源码分析
 
-- https://github.com/cch123/golang-notes 主要是源码分析，可能也会有一些使用上的知识点
+- [源码分析 1](https://github.com/cch123/golang-notes) 主要是源码分析，可能也会有一些使用上的知识点
 
-- https://github.com/xuesongbj/Go-Notes go源码剖析
+- [源码分析 2](https://github.com/xuesongbj/Go-Notes) go源码剖析
 
-- https://zhuanlan.zhihu.com/goroutine golang数据结构内部实现
+- [golang数据结构内部实现](https://zhuanlan.zhihu.com/goroutine)
 
 
 
 ## go基础学习系列
 
-- https://tour.golang.org/welcome/1 go tour
+- [go tour](https://tour.golang.org/welcome/1)
 
-- https://tour.go-zh.org/welcome/1  go tour 中文版
+- [go tour 中文版](https://tour.go-zh.org/welcome/1)
 
-- https://gobyexample.com/ Go by Example
+- [Go by Example](https://gobyexample.com/)
 
-- https://github.com/Unknwon/go-fundamental-programming Go编程基础 视频教程，作者：无闻
-
+- [Go基础编程-by无闻](https://github.com/Unknwon/go-fundamental-programming)
 - https://github.com/rujews/go-in-action-notes Go语言实战笔记
 
-- https://tutorialedge.net/course/golang/  you can get started with the Go programming language
+- [study Go programming language](https://tutorialedge.net/course/golang/) 
 
 - <http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/> go初学者经常犯的错误
 
