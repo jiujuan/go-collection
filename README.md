@@ -50,7 +50,8 @@
 - [Go by Example](https://gobyexample.com/)
 
 - [Go基础编程-by无闻](https://github.com/Unknwon/go-fundamental-programming)
-- https://github.com/rujews/go-in-action-notes Go语言实战笔记
+
+- [Go语言实战笔记](https://github.com/rujews/go-in-action-notes)
 
 - [study Go programming language](https://tutorialedge.net/course/golang/) 
 
