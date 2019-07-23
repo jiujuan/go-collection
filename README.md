@@ -86,6 +86,7 @@
 
 - [golang数据结构内部实现](https://zhuanlan.zhihu.com/goroutine)
 
+- [雨痕Go语言学习笔记](https://github.com/qyuhen/book)
 
 
 ## 微服务
