@@ -33,6 +33,7 @@
 
 
 ## go基础学习系列
+- [go语言快速入门](https://github.com/jaywcjlove/golang-tutorial)
 
 - [go tour](https://tour.golang.org/welcome/1)
 
