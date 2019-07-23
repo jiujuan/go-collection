@@ -73,6 +73,7 @@
 - [gin框架实战系列](https://youngxhui.top/categories/gin/)
   - [github代码地址](https://github.com/youngxhui/GinHello)
 - [beego框架开发轻博客实战系列](https://www.jianshu.com/nb/27703855)
+- [golang爬虫视频课程](https://www.bilibili.com/video/av31551627/)
 
 
 
