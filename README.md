@@ -77,6 +77,8 @@
 
 - [源码分析 2](https://github.com/xuesongbj/Go-Notes) go源码剖析
 
+- [源码分析 3](https://zhuanlan.zhihu.com/c_1010470599088594944)  [二](https://zhuanlan.zhihu.com/golang-internal) 
+
 - [golang数据结构内部实现](https://zhuanlan.zhihu.com/goroutine)
 
 
