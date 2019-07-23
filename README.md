@@ -75,6 +75,7 @@
 - [beego框架开发轻博客实战系列](https://www.jianshu.com/nb/27703855)
 - [golang爬虫视频课程](https://www.bilibili.com/video/av31551627/)
 - [go web开发例子](https://gowebexamples.com/)
+- [使用gin和gorm框架来构建 RESTful API 微服务](https://medium.com/@thedevsaddam/build-restful-api-service-in-golang-using-gin-gonic-framework-85b1a6e176f3) [中文翻译版](https://learnku.com/golang/t/24598)
 
 
 
