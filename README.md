@@ -74,6 +74,7 @@
   - [github代码地址](https://github.com/youngxhui/GinHello)
 - [beego框架开发轻博客实战系列](https://www.jianshu.com/nb/27703855)
 - [golang爬虫视频课程](https://www.bilibili.com/video/av31551627/)
+- [go web开发例子](https://gowebexamples.com/)
 
 
 
