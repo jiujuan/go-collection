@@ -70,8 +70,9 @@
 ## go项目实战
 
 - [go小项目实战系列](https://blog.csdn.net/u010986776/article/category/8095305)
-- [gin实战系列](https://youngxhui.top/categories/gin/)
+- [gin框架实战系列](https://youngxhui.top/categories/gin/)
   - [github代码地址](https://github.com/youngxhui/GinHello)
+- [beego框架开发轻博客实战系列](https://www.jianshu.com/nb/27703855)
 
 
 
