@@ -47,6 +47,8 @@
 
 - [golang基础系列](https://www.pythonav.cn/golang/)
 
+- [golang bootcamp](http://www.golangbootcamp.com/book)
+
 - [study Go programming language](https://tutorialedge.net/course/golang/) 
 
 - [common mistakes in golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) go初学者经常犯的错误
