@@ -44,35 +44,21 @@ awesome项目，学习基础系列，go项目实战，go源码分析，go开发�
 
 ## go基础学习系列
 - [go语言快速入门](https://github.com/jaywcjlove/golang-tutorial)
-
 - [go tour](https://tour.golang.org/welcome/1)
-
 - [go tour 中文版](https://tour.go-zh.org/welcome/1)
-
 - [Go by Example](https://gobyexample.com/)
-
 - [Go基础编程-by无闻](https://github.com/Unknwon/go-fundamental-programming)
-
 - [Go语言实战笔记](https://github.com/rujews/go-in-action-notes)
-
 - [golang基础系列](https://www.pythonav.cn/golang/)
-
 - [golang bootcamp](http://www.golangbootcamp.com/book)
-
 - [study Go programming language](https://tutorialedge.net/course/golang/) 
-
 - [common mistakes in golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) go初学者经常犯的错误
-
 - [Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)  [gitbook版](https://quii.gitbook.io/learn-go-with-tests) [中文版](https://studygolang.gitbook.io/learn-go-with-tests)
-
 - [golang program](http://www.golangprograms.com)
-
 - [golang 项目实战简明指南](http://litang.me/post/golang-project-guide/)
-
 - [go语言基础学习](https://blog.csdn.net/u010986776/article/details/82318038)
-
 - [go语言高级特性学习](https://blog.csdn.net/u010986776/article/category/8004337)
-
+- [go web开发教程](https://github.com/bonfy/go-mega)
 - [聚合多套golang教程](https://hackr.io/tutorials/learn-golang)
 
 
