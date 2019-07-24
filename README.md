@@ -1,4 +1,4 @@
-一些awesome项目，一些学习系列的项目，一些go的blog等等，把他们收集起来以供gopher学习。
+awesome项目，学习基础系列，go项目实战，go开发者成长路线图等等，把他们收集起来以供gopher们学习。
 
 给我一个 Star！ :star:
 
