@@ -1,5 +1,5 @@
 # Golang从入门到跑路
-awesome项目，学习基础系列，go项目实战，go源码分析，go开发者成长路线图等等，把他们收集起来以供gopher们学习。
+收录的awesome项目，学习基础系列，go项目实战，go源码分析，go开发者成长路线图等等，把他们收集起来以供gopher们学习。
 
 给我一个 Star！ :star:
 
