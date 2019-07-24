@@ -103,6 +103,7 @@ awesome项目，学习基础系列，go项目实战，go源码分析，go开发�
 - [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book/blob/master/SUMMARY.md)
 - [Go Web编程](https://github.com/astaxie/build-web-application-with-golang)
 - [go实战开发](https://github.com/astaxie/go-best-practice)
+- [go语言42章经](https://github.com/ffhelicopter/Go42)
 
 
 
