@@ -53,8 +53,6 @@
 
 - [common mistakes in golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) go初学者经常犯的错误
 
-- [聚合多套golang教程](https://hackr.io/tutorials/learn-golang)
-
 - [Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)  [gitbook版](https://quii.gitbook.io/learn-go-with-tests) [中文版](https://studygolang.gitbook.io/learn-go-with-tests)
 
 - [golang program](http://www.golangprograms.com)
@@ -65,6 +63,7 @@
 
 - [go语言高级特性学习](https://blog.csdn.net/u010986776/article/category/8004337)
 
+- [聚合多套golang教程](https://hackr.io/tutorials/learn-golang)
 
 
 ## go项目实战
