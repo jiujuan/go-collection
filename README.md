@@ -112,6 +112,7 @@ awesome项目，学习基础系列，go项目实战，go源码分析，go开发�
 - [go官方语言编码规范](https://github.com/golang/go/wiki/CodeReviewComments) 
 - [无闻的go语言编码规范](https://github.com/Unknwon/go-code-convention/blob/master/zh-CN/README.md)
 - [high performance go workshop-by dave](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html)  
+- [go性能优化](https://github.com/dgryski/go-perfbook)  [中文版](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
   
   
   
