@@ -8,4 +8,4 @@
 
   
 
-![2019 Go 开发者成长路线图](./images/golang-developer-roadmap-zh-CN.png) 
+![2019 Go 开发者成长路线图](../images/golang-developer-roadmap-zh-CN.png) 
