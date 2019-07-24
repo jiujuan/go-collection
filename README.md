@@ -6,7 +6,7 @@ awesome项目，学习基础系列，go项目实战，go源码分析，go开发�
 
 ## 目录
 
-- [awesome-go list](#awesome-go)
+- [awesome-go list](#awesome-go-list)
 - [awesome-go存储项目](#go存储项目)
 - [go基础学习系列](#go基础学习系列)
 - [go项目实战](#go项目实战)
