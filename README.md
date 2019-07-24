@@ -1,27 +1,24 @@
 一些awesome项目，一些学习系列的项目，一些go的blog等等，把他们收集起来以供gopher学习。
 
+给我一个 Star！ :star:
+
+
+
 ## 目录
 - [awesome-go list](#awesome-go)
-
 - [awesome-go存储项目](#go存储项目)
-
 - [go基础学习系列](#go基础学习系列)
-
 - [go项目实战](#go项目实战)
-
 - [go源码分析](#go源码分析)
-
 - [微服务](#微服务)
   - [go-micro](#go-micro)
   - [go-kit](#go-kit)
-  
 - [Go书籍](#Go书籍)
-
 - [其他](#其他)
 
-  
 
-- [Go开发者成长路线图](./golang-developer-roadmap.md)
+
+- [Go开发者成长路线图](./golang/golang-developer-roadmap.md)
 
   
 
