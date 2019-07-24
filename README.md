@@ -2,15 +2,28 @@
 
 ## 目录
 - [awesome-go list](#awesome-go)
+
 - [awesome-go存储项目](#go存储项目)
+
 - [go基础学习系列](#go基础学习系列)
+
 - [go项目实战](#go项目实战)
+
 - [go源码分析](#go源码分析)
+
 - [微服务](#微服务)
   - [go-micro](#go-micro)
   - [go-kit](#go-kit)
+  
 - [Go书籍](#Go书籍)
+
 - [其他](#其他)
+
+  
+
+- [Go开发者成长路线图](https://github.com/jiujuan/go-collection/golang-developer-roadmap.md)
+
+  
 
 ## awesome-go list
 
