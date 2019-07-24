@@ -98,7 +98,7 @@ awesome项目，学习基础系列，go项目实战，go源码分析，go开发�
 ## Go书籍
 - [go books集合](https://github.com/dariubs/GoBooks)
 - [the way to go 中文版](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-- [gopl 中文版](https://github.com/golang-china/gopl-zh) go语言圣经
+- [gopl 中文版](https://books.studygolang.com/gopl-zh/) go语言圣经
 - [Mastering Go 中文版](https://github.com/hantmac/Mastering_Go_ZH_CN)
 - [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book/blob/master/SUMMARY.md)
 - [Go Web编程](https://github.com/astaxie/build-web-application-with-golang)
