@@ -28,7 +28,7 @@ awesome项目，学习基础系列，go项目实战，go源码分析，go开发�
 - [awesome-go github地址](https://github.com/avelino/awesome-Go) awesome-go.com的github源码地址
 - [awesome-go 中文翻译1](https://github.com/jobbole/awesome-go-cn)
 - [awesome-go 中文翻译2](https://github.com/yinggaozhen/awesome-go-cn)
-- [awesome-go 一个更精细化项目](https://github.com/hackstoic/golang-open-source-projects) awesome-go的一个精细化项目，介绍更详细。本项目作为awesome-go的一个扩展，根据go语言中文社区提供的资料，还有互联网企业架构设计中的常见组件分类， 共精心挑选了155个开源项目
+- [awesome-go 一个更精细化项目](https://github.com/hackstoic/golang-open-source-projects) awesome-go的一个精细化项目，介绍更详细。本项目作为awesome-go的一个扩展
 - [开源项目速查表](https://www.ctolib.com/cheatsheets-go-project.html) 根据右边的目录可以快速查找
 
 
@@ -85,7 +85,7 @@ awesome项目，学习基础系列，go项目实战，go源码分析，go开发�
 
 ## go-micro
 - [Micro教程系列](https://github.com/micro-in-cn/tutorials)
-- [Micro最佳实践](https://github.com/micro-in-cn/all-in-one) Micro最佳实践，本项目旨在以全面的视角向大家演示micro服务的开发，并尽可能介绍其功能。我们尝试由浅入深，从基础篇开始，每个目录对应一个级别的示例。
+- [Micro最佳实践](https://github.com/micro-in-cn/all-in-one) Micro最佳实践，我们尝试由浅入深，从基础篇开始，每个目录对应一个级别的示例。
 - [Micro中文博客](https://micro.mu/blog/cn/)
 
 ## go-kit
