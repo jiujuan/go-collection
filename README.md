@@ -21,7 +21,7 @@
 
   
 
-- [Go开发者成长路线图](https://github.com/jiujuan/go-collection/golang-developer-roadmap.md)
+- [Go开发者成长路线图](./golang-developer-roadmap.md)
 
   
 
