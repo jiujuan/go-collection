@@ -64,7 +64,8 @@
 ## go标准库
 - [golang pkg](https://golang.org/pkg/)
   - [中文版](http://cngolib.com/)
-- [go标准库学习](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)  
+- [go标准库学习](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/) 
+- [go语言标准包解析](https://syaning.github.io/go-pkgs/)
   
 ## go项目实战
 
