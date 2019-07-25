@@ -1,12 +1,13 @@
 # Golang从入门到跑路
 
+<div align="center">
 ![logo](./images/go-collection-logo-345x345.png)
 
 [![gostudy](https://img.shields.io/badge/golang-study-orange)](https://github.com/jiujuan/go-collection#目录)
 [![GitHub stars](https://img.shields.io/github/stars/jiujuan/go-collection)](https://github.com/jiujuan/go-collection/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/jiujuan/go-collection)](https://github.com/jiujuan/go-collection/network)
 [![GitHub issues](https://img.shields.io/github/issues/jiujuan/go-collection)](https://github.com/jiujuan/go-collection/issues)
-
+</div>
 
 收录的awesome项目，学习基础系列，go项目实战，go源码分析，go开发者成长路线图等等，把他们收集起来以供gopher们学习。
 
