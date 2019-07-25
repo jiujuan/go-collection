@@ -30,6 +30,7 @@
 - [awesome-go 中文翻译1](https://github.com/jobbole/awesome-go-cn)
 - [awesome-go 中文翻译2](https://github.com/yinggaozhen/awesome-go-cn)
 - [awesome-go 一个更精细化项目](https://github.com/hackstoic/golang-open-source-projects) awesome-go的一个精细化项目，介绍更详细。本项目作为awesome-go的一个扩展
+- [gopher reading list](https://github.com/enocom/gopher-reading-list)
 - [开源项目速查表](https://www.ctolib.com/cheatsheets-go-project.html) 根据右边的目录可以快速查找
 
 
