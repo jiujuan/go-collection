@@ -9,6 +9,7 @@
 - [awesome-go list](#awesome-go-list)
 - [awesome-go存储项目](#go存储项目)
 - [go基础学习系列](#go基础学习系列)
+- [go标准库](#go标准库)
 - [go项目实战](#go项目实战)
 - [go源码分析](#go源码分析)
 - [微服务](#微服务)
@@ -60,6 +61,11 @@
 - [聚合多套golang教程](https://hackr.io/tutorials/learn-golang)
 
 
+## go标准库
+- [golang pkg](https://golang.org/pkg/)
+  - [中文版](http://cngolib.com/)
+- [go标准库学习](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)  
+  
 ## go项目实战
 
 - [go小项目实战系列](https://blog.csdn.net/u010986776/article/category/8095305)
@@ -98,6 +104,7 @@
 ## Go书籍
 - [go books集合](https://github.com/dariubs/GoBooks)
 - [the way to go 中文版](https://github.com/Unknwon/the-way-to-go_ZH_CN)
+  - [看云版](https://www.kancloud.cn/kancloud/the-way-to-go/72432)
 - [gopl 中文版](https://books.studygolang.com/gopl-zh/) go语言圣经
 - [Mastering Go 中文版](https://github.com/hantmac/Mastering_Go_ZH_CN)
   - [gitbook版](https://wskdsgcf.gitbook.io/mastering-go-zh-cn/)
