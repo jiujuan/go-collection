@@ -114,6 +114,9 @@
 - [go-kit与grpc结合开发微服务](http://www.articlechain.cn/post/46.html)
 - [go-kit cn](http://go-kit.cn/)
 
+## kratos
+- [kratos](https://github.com/bilibili/kratos) bilibili开源的一套微服务框架
+- [kratos wiki](https://github.com/bilibili/kratos/wiki)
 
 ## Go书籍
 - [go books集合](https://github.com/dariubs/GoBooks)
