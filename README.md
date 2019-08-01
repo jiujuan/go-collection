@@ -33,8 +33,7 @@
 
 
 - [Go开发者成长路线图](./golang/golang-developer-roadmap.md)
-
-  
+- [go社区知识图谱](../golang/golang-knowledge-graph.md)
 
 ## awesome-go list
 
