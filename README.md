@@ -72,6 +72,7 @@
 - [go语言高级特性学习](https://blog.csdn.net/u010986776/article/category/8004337)
 - [go web开发教程](https://github.com/bonfy/go-mega)
 - [聚合多套golang教程](https://hackr.io/tutorials/learn-golang)
+- [go命令教程](https://github.com/hyper0x/go_command_tutorial)
 
 
 ## go标准库
