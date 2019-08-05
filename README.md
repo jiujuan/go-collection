@@ -143,7 +143,7 @@
 - [high performance go workshop-by dave](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html)  
 - [go性能优化](https://github.com/dgryski/go-perfbook)  [中文版](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
 - [编写可维护 Go 语言代码建议](https://github.com/llitfkitfk/go-best-practice)
-
+- [go各种自学资料总结](https://github.com/overnote/golang)
 - [gocn每日新闻](https://github.com/gocn/news)
   
   
