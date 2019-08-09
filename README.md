@@ -134,6 +134,7 @@
 - [go实战开发](https://github.com/astaxie/go-best-practice)
 - [go语言42章经](https://github.com/ffhelicopter/Go42)
 - [go101](https://go101.org/article/101.html)  [github](https://github.com/go101/go101)
+- [go专家编程](https://github.com/RainbowMango/GoExpertProgramming)
 
 
 
