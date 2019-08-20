@@ -91,6 +91,7 @@
 - [go web开发例子](https://gowebexamples.com/)
 - [使用gin和gorm框架来构建 RESTful API 微服务 英文版](https://medium.com/@thedevsaddam/build-restful-api-service-in-golang-using-gin-gonic-framework-85b1a6e176f3) [中文翻译版](https://learnku.com/golang/t/24598)
 - [go语言高级实战](https://github.com/Shitaibin/golang_step_by_step)
+- [一步一步学习Go web开发](https://go-mega.bonfy.im/)
 
 
 
