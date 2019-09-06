@@ -101,6 +101,8 @@
 - [golang数据结构内部实现](https://zhuanlan.zhihu.com/goroutine)
 - [雨痕Go语言学习笔记](https://github.com/qyuhen/book)
 - [从Questions学习Go](https://github.com/qcrao/Go-Questions/wiki)
+- [深度解密slice、reflection、map、context、unsafe系列](https://qcrao.com/archives/)
+- [深度解析GPM系列](https://qcrao.com/2019/09/04/go-scheduler-what-is-gpm/) [二](https://qcrao.com/2019/09/04/go-scheduler-init/) [三](https://qcrao.com/2019/09/04/go-scheduler-the-birth-of-main-goroutine/)
 
 
 ## 微服务
