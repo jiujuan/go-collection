@@ -61,7 +61,6 @@
 - [Go by Example](https://gobyexample.com/)
 - [Go基础编程-by无闻](https://github.com/Unknwon/go-fundamental-programming)
 - [Go语言实战笔记](https://github.com/rujews/go-in-action-notes)
-- [golang基础系列](https://www.pythonav.cn/golang/)
 - [golang bootcamp](http://www.golangbootcamp.com/book)
 - [study Go programming language](https://tutorialedge.net/course/golang/) 
 - [common mistakes in golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) go初学者经常犯的错误
