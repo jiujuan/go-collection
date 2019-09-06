@@ -67,7 +67,7 @@
 - [Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)  [gitbook版](https://quii.gitbook.io/learn-go-with-tests) [中文版](https://studygolang.gitbook.io/learn-go-with-tests)
 - [golang program](http://www.golangprograms.com)
 - [golang 项目实战简明指南](http://litang.me/post/golang-project-guide/)
-- [go语言基础学习](https://blog.csdn.net/u010986776/article/details/82318038)
+- [go语言基础学习](https://blog.csdn.net/u010986776/article/category/8000832)
 - [go语言高级特性学习](https://blog.csdn.net/u010986776/article/category/8004337)
 - [go web开发教程](https://github.com/bonfy/go-mega)
 - [聚合多套golang教程](https://hackr.io/tutorials/learn-golang)
