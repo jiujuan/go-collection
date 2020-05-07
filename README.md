@@ -57,14 +57,16 @@
 
 - [go语言快速入门](https://github.com/jaywcjlove/golang-tutorial)
 - [go tour](https://tour.golang.org/welcome/1)
-- [go tour 中文版](https://tour.go-zh.org/welcome/1)
+  - [go tour 中文版](https://tour.go-zh.org/welcome/1)
 - [Go by Example](https://gobyexample.com/)
 - [Go基础编程-by无闻](https://github.com/Unknwon/go-fundamental-programming)
 - [Go语言实战笔记](https://github.com/rujews/go-in-action-notes)
 - [golang bootcamp](http://www.golangbootcamp.com/book)
 - [study Go programming language](https://tutorialedge.net/course/golang/) 
 - [common mistakes in golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) go初学者经常犯的错误
-- [Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)  [gitbook版](https://quii.gitbook.io/learn-go-with-tests) [中文版](https://studygolang.gitbook.io/learn-go-with-tests)
+- [Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)  
+  - [gitbook版](https://quii.gitbook.io/learn-go-with-tests) 
+  - [中文版](https://studygolang.gitbook.io/learn-go-with-tests)
 - [golang program](http://www.golangprograms.com)
 - [golang 项目实战简明指南](http://litang.me/post/golang-project-guide/)
 - [go语言基础学习](https://blog.csdn.net/u010986776/article/category/8000832)
@@ -88,7 +90,8 @@
 - [beego框架开发轻博客实战系列](https://www.jianshu.com/nb/27703855)
 - [golang爬虫视频课程](https://www.bilibili.com/video/av31551627/)
 - [go web开发例子](https://gowebexamples.com/)
-- [使用gin和gorm框架来构建 RESTful API 微服务 英文版](https://medium.com/@thedevsaddam/build-restful-api-service-in-golang-using-gin-gonic-framework-85b1a6e176f3) [中文翻译版](https://learnku.com/golang/t/24598)
+- [使用gin和gorm框架来构建 RESTful API 微服务 en](https://medium.com/@thedevsaddam/build-restful-api-service-in-golang-using-gin-gonic-framework-85b1a6e176f3) 
+  - [中文翻译版](https://learnku.com/golang/t/24598)
 - [go语言高级实战](https://github.com/Shitaibin/golang_step_by_step)
 
 
@@ -133,7 +136,8 @@
 - [Go Web编程](https://github.com/astaxie/build-web-application-with-golang)
 - [go实战开发](https://github.com/astaxie/go-best-practice)
 - [go语言42章经](https://github.com/ffhelicopter/Go42)
-- [go101](https://go101.org/article/101.html)  [github](https://github.com/go101/go101)
+- [go101](https://go101.org/article/101.html)  
+  - [go101 github](https://github.com/go101/go101)
 - [go专家编程](https://github.com/RainbowMango/GoExpertProgramming)
 - [go under the hood](https://github.com/changkun/go-under-the-hood)
 - [Go-Mega](https://go-mega.bonfy.im/)
@@ -146,10 +150,12 @@
 - [go官方语言编码规范](https://github.com/golang/go/wiki/CodeReviewComments) 
 - [无闻的go语言编码规范](https://github.com/Unknwon/go-code-convention/blob/master/zh-CN/README.md)
 - [high performance go workshop-by dave](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html)  
-- [go性能优化](https://github.com/dgryski/go-perfbook)  [中文版](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
+- [go性能优化](https://github.com/dgryski/go-perfbook)  
+  - [中文版](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
 - [编写可维护 Go 语言代码建议](https://github.com/llitfkitfk/go-best-practice)
 - [go各种自学资料总结](https://github.com/overnote/golang)
-- [gocn每日新闻](https://github.com/gocn/news) [go news 二](https://github.com/Han-Ya-Jun/gocn_news_set)
+- [gocn每日新闻 一](https://github.com/gocn/news) 
+  - [go news 二](https://github.com/Han-Ya-Jun/gocn_news_set)
   
   
 
