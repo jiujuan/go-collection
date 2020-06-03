@@ -29,6 +29,7 @@
   - [go-kit](#go-kit)
   - [kratos](#kratos)
 - [Go书籍](#Go书籍)
+- [常见问题](#常见问题)
 - [其他](#其他)
 
 
@@ -142,7 +143,8 @@
 - [go under the hood](https://github.com/changkun/go-under-the-hood)
 - [Go-Mega](https://go-mega.bonfy.im/)
 
-
+## 常见问题
+- [Go 语言中通道死锁经典错误案例详解](https://segmentfault.com/a/1190000022820306)
 
 ## 其他
 
