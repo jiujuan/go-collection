@@ -146,6 +146,8 @@
 ## 常见问题和错误
 - [Go 语言中通道死锁经典错误案例详解](https://segmentfault.com/a/1190000022820306)
 - [Go 项目开发里最常犯的 10 个错误](https://learnku.com/articles/38669)
+- [Go新手可能会踩的50个坑](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+  - [翻译版](https://segmentfault.com/a/1190000013739000)
 
 ## 其他
 
