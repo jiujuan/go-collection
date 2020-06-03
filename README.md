@@ -29,7 +29,7 @@
   - [go-kit](#go-kit)
   - [kratos](#kratos)
 - [Go书籍](#Go书籍)
-- [常见问题](#常见问题)
+- [常见问题和错误](#常见问题和错误)
 - [其他](#其他)
 
 
@@ -143,8 +143,9 @@
 - [go under the hood](https://github.com/changkun/go-under-the-hood)
 - [Go-Mega](https://go-mega.bonfy.im/)
 
-## 常见问题
+## 常见问题和错误
 - [Go 语言中通道死锁经典错误案例详解](https://segmentfault.com/a/1190000022820306)
+- [Go 项目开发里最常犯的 10 个错误](https://learnku.com/articles/38669)
 
 ## 其他
 
