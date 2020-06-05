@@ -15,7 +15,7 @@
 
 觉得好，请给我一个 Star！ :star:
 
-:notice: 如果有的链接失效，可以向我发issure，感谢！
+:pencil2: 如果有的链接失效，可以向我发issues，感谢！
 
 ## 目录
 
