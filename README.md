@@ -115,6 +115,7 @@
 - [Micro-blog](https://medium.com/microhq)
 - [Micro docs](https://dev.micro.mu/)
 - [Micro tutorials](https://dev.micro.mu/getting-started)
+- [Learn Micro by examples](https://github.com/micro/examples)
 - [Micro 中国](https://microhq.cn/index-cn)
   - [github](https://github.com/micro-in-cn/)
 - [Micro教程系列](https://github.com/micro-in-cn/tutorials)
