@@ -13,9 +13,9 @@
 
 收录的awesome项目，学习基础系列，go项目实战，go源码分析，go开发者成长路线图等等，把他们收集起来学习。
 
-觉得好，请给我一个 Star！ :star:
+觉得对您学习golang有帮助，请给我点一个 Star！ :star:
 
-:pencil2: 如果有的链接失效，可以向我发issues，感谢！
+:pencil2: 如果有的链接失效了，可以向我发[issues](https://github.com/jiujuan/go-collection/issues)，灰常感谢！
 
 ## 目录
 
