@@ -15,7 +15,8 @@
 
 觉得对您学习golang有帮助，请给我点一个 Star！ :star:
 
-:pencil2: 如果有的链接失效了，可以向我发[issues](https://github.com/jiujuan/go-collection/issues)，灰常感谢！
+:pencil2: 如果有的链接失效了，可以给我发[issues](https://github.com/jiujuan/go-collection/issues)，灰常感谢！
+:memo: 如果您觉得有好的golang教程、源码分析文、书籍等等，都可以给我发[issues](https://github.com/jiujuan/go-collection/issues)，灰常感谢！
 
 ## 目录
 
