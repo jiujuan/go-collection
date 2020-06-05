@@ -98,6 +98,7 @@
 
 ## go源码分析
 
+- [Go 语言设计与实现 - 面向信仰编程](https://draveness.me/golang/)
 - [源码分析 1](https://github.com/cch123/golang-notes) 主要是源码分析，可能也会有一些使用上的知识点
 - [源码分析 2](https://github.com/xuesongbj/Go-Notes) go源码剖析
 - [源码分析 3](https://zhuanlan.zhihu.com/c_1010470599088594944)  [二](https://zhuanlan.zhihu.com/golang-internal) 
@@ -105,7 +106,7 @@
 - [雨痕Go语言学习笔记](https://github.com/qyuhen/book)
 - [从Questions学习Go](https://github.com/qcrao/Go-Questions/wiki)
 - 深度解密系列 [slice](https://qcrao.com/2019/04/02/dive-into-go-slice/)、[interface](https://qcrao.com/2019/04/25/dive-into-go-interface/)、[reflection](https://qcrao.com/2019/05/07/dive-into-go-reflection/)、[map](https://qcrao.com/2019/05/22/dive-into-go-map/)、[context](https://qcrao.com/2019/06/12/dive-into-go-context/)、[unsafe](https://qcrao.com/2019/06/03/dive-into-go-unsafe/)、[channel](https://qcrao.com/2019/07/22/dive-into-go-channel/)、[scheduler](https://qcrao.com/2019/09/02/dive-into-go-scheduler/)、[defer](https://qcrao.com/2019/02/12/how-to-keep-off-trap-of-defer/)、[memory](https://qcrao.com/2019/03/13/graphic-go-memory-allocation/)
-- [深度解析GPM系列 一](https://qcrao.com/2019/09/04/go-scheduler-what-is-gpm/) [二](https://qcrao.com/2019/09/04/go-scheduler-init/) [三](https://qcrao.com/2019/09/04/go-scheduler-the-birth-of-main-goroutine/) [四](https://qcrao.com/2019/09/04/go-scheduler-stack-switch-between-g0-and-user-goroutine/) [五](https://qcrao.com/2019/09/04/go-scheduler-start-schedule-cycle/)  [六](https://qcrao.com/2019/09/06/go-scheduler-life-of-goroutine/) [七](https://qcrao.com/2019/09/06/go-scheduler-cycle-of-schedul/) [八](https://qcrao.com/2019/09/06/go-scheduler-m-finds-work/) [九](https://qcrao.com/2019/09/06/go-scheduler-what-sysmon-does/) [十](https://qcrao.com/2019/09/06/go-scheduler-state-diagram-of-gpm/)
+- [深度解析GPM系列 一](https://qcrao.com/2019/09/06/dive-into-go-scheduler-source-code/) [二](https://qcrao.com/2019/09/04/go-scheduler-init/) [三](https://qcrao.com/2019/09/04/go-scheduler-the-birth-of-main-goroutine/) [四](https://qcrao.com/2019/09/04/go-scheduler-stack-switch-between-g0-and-user-goroutine/) [五](https://qcrao.com/2019/09/04/go-scheduler-start-schedule-cycle/)  [六](https://qcrao.com/2019/09/06/go-scheduler-life-of-goroutine/) [七](https://qcrao.com/2019/09/06/go-scheduler-cycle-of-schedul/) [八](https://qcrao.com/2019/09/06/go-scheduler-m-finds-work/) [九](https://qcrao.com/2019/09/06/go-scheduler-what-sysmon-does/) [十](https://qcrao.com/2019/09/06/go-scheduler-state-diagram-of-gpm/)
 
 
 ## 微服务
