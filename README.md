@@ -111,10 +111,12 @@
 ## 微服务
 
 ## go-micro
+- [Micro-blog](https://medium.com/microhq)
+- [Micro docs](https://dev.micro.mu/)
+- [Micro tutorials](https://dev.micro.mu/getting-started)
+- [Micro 中国](https://microhq.cn/index-cn)
 - [Micro教程系列](https://github.com/micro-in-cn/tutorials)
 - [Micro最佳实践](https://github.com/micro-in-cn/all-in-one) Micro最佳实践，我们尝试由浅入深，从基础篇开始，每个目录对应一个级别的示例。
-- [Micro中文文档](https://micro.mu/docs/cn/index.html)
-- [Micro中文博客](https://micro.mu/blog/cn/)
 
 ## go-kit
 
