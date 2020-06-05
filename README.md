@@ -11,15 +11,16 @@
 [![GitHub issues](https://img.shields.io/github/issues/jiujuan/go-collection)](https://github.com/jiujuan/go-collection/issues)
 
 
-收录的awesome项目，学习基础系列，go项目实战，go源码分析，go开发者成长路线图等等，把他们收集起来学习。
+> 收录的awesome-go项目，学习基础系列，go项目实战，go源码分析，go开发者成长路线图等等，把他们收集起来学习。
 
 :speaker: 觉得对您学习golang有帮助，请给我点一个 Star！ :star:
 
+
 :mega: :mega: :mega:
 
-:pencil2: 如果有的链接失效了，可以给我发[issues](https://github.com/jiujuan/go-collection/issues)，灰常感谢！
+- :pencil2: 如果有的链接失效了，可以给我发[issues](https://github.com/jiujuan/go-collection/issues)，灰常感谢！
 
-:memo: 如果您觉得有好的golang教程、源码分析文章、书籍等等，都可以给我发[issues](https://github.com/jiujuan/go-collection/issues)，灰常感谢！
+- :memo: 如果您觉得有好的golang教程、源码分析文章、书籍等等，都可以给我发[issues](https://github.com/jiujuan/go-collection/issues)，灰常感谢！
 
 ## 目录
 
@@ -103,7 +104,10 @@
 
 ## go源码分析
 
+- [go-under-the-hood--欧长坤](https://github.com/changkun/go-under-the-hood/)
+  - [网站阅读版](https://changkun.de/golang/)
 - [Go 语言设计与实现 - 面向信仰编程](https://draveness.me/golang/)
+
 - [源码分析 1](https://github.com/cch123/golang-notes) 主要是源码分析，可能也会有一些使用上的知识点
 - [源码分析 2](https://github.com/xuesongbj/Go-Notes) go源码剖析
 - [源码分析 3](https://zhuanlan.zhihu.com/c_1010470599088594944)  [二](https://zhuanlan.zhihu.com/golang-internal) 
