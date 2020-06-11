@@ -34,6 +34,7 @@
   - [go-micro](#go-micro)
   - [go-kit](#go-kit)
   - [kratos](#kratos)
+  - [Jupiter](#Jupiter)
 - [Go书籍](#Go书籍)
 - [常见问题和错误](#常见问题和错误)
 - [其他](#其他)
