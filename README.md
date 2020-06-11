@@ -140,6 +140,10 @@
 - [kratos](https://github.com/bilibili/kratos) bilibili开源的一套微服务框架
 - [kratos wiki](https://github.com/bilibili/kratos/wiki)
 
+## Jupiter
+- [Jupiter](https://github.com/douyu/jupiter) 斗鱼开源的面向服务治理的Golang微服务框架
+- [官网](http://jupiter.douyu.com/)
+
 ## Go书籍
 - [go books集合](https://github.com/dariubs/GoBooks)
 - [the way to go 中文版](https://github.com/Unknwon/the-way-to-go_ZH_CN)
