@@ -183,7 +183,8 @@
 - [go技术日报](https://studygolang.com/go/godaily)
 - [gopherdaily](https://github.com/bigwhite/gopherdaily)
 - [Go夜读](https://reading.developerlearning.cn/)
-  
+
+- [go每日一库](https://github.com/darjun/go-daily-lib)
   
 
 [返回目录](#目录)
