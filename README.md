@@ -181,6 +181,7 @@
 - [gocn每日新闻 一](https://github.com/gocn/news) 
   - [go news 二](https://github.com/Han-Ya-Jun/gocn_news_set)
 - [go技术日报](https://studygolang.com/go/godaily)
+- [gopherdaily](https://github.com/bigwhite/gopherdaily)
 - [Go夜读](https://reading.developerlearning.cn/)
   
   
