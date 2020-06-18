@@ -135,6 +135,7 @@
 
 ## go-kit
 
+- [go-kit](https://github.com/go-kit/kit)
 - [go-kit系列教程](https://juejin.im/post/5c861c93f265da2de7138615)
 - [go-kit与grpc结合开发微服务](http://www.articlechain.cn/post/46.html)
 - [go-kit cn](http://go-kit.cn/)
