@@ -162,6 +162,7 @@
 - [go语言42章经](https://github.com/ffhelicopter/Go42)
 - [go101](https://go101.org/article/101.html)  
   - [go101 github](https://github.com/go101/go101)
+  - [中文版](https://github.com/golang101/golang101)
 - [go专家编程](https://github.com/RainbowMango/GoExpertProgramming)
 - [go under the hood](https://github.com/changkun/go-under-the-hood)
 - [Go-Mega](https://go-mega.bonfy.im/)
