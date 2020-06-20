@@ -142,8 +142,9 @@
 - [go-kit cn](http://go-kit.cn/)
 
 ## kratos
-- [kratos](https://github.com/bilibili/kratos) bilibili开源的一套微服务框架
-- [kratos wiki](https://github.com/bilibili/kratos/wiki)
+- [kratos](https://github.com/go-kratos/kratos) bilibili开源的一套微服务框架
+  - [go-kratos](https://github.com/go-kratos)
+- [kratos wiki](https://github.com/go-kratos/kratos/blob/master/doc/wiki-cn/summary.md)
 
 ## Jupiter
 - [Jupiter](https://github.com/douyu/jupiter) 斗鱼开源的面向服务治理的Golang微服务框架
