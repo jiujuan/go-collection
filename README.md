@@ -35,6 +35,7 @@
   - [go-kit](#go-kit)
   - [kratos](#kratos)
   - [Jupiter](#Jupiter)
+- [rpc(#rpc)
 - [Go书籍](#Go书籍)
 - [常见问题和错误](#常见问题和错误)
 - [其他](#其他)
@@ -150,6 +151,12 @@
 ## Jupiter
 - [Jupiter](https://github.com/douyu/jupiter) 斗鱼开源的面向服务治理的Golang微服务框架
 - [官网](http://jupiter.douyu.com/)
+
+## rpc
+- [gRPC-go](https://github.com/grpc/grpc-go)
+  - [grpc](https://github.com/grpc/)
+- [rpcx](https://github.com/smallnest/rpcx)
+  - [website](https://rpcx.io/)
 
 ## Go书籍
 - [go books集合](https://github.com/dariubs/GoBooks)
