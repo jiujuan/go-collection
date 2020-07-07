@@ -35,7 +35,7 @@
   - [go-kit](#go-kit)
   - [kratos](#kratos)
   - [Jupiter](#Jupiter)
-- [rpc(#rpc)
+- [rpc](#rpc)
 - [Go书籍](#Go书籍)
 - [常见问题和错误](#常见问题和错误)
 - [其他](#其他)
