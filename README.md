@@ -103,6 +103,7 @@
 - [使用gin和gorm框架来构建 RESTful API 微服务 en](https://medium.com/@thedevsaddam/build-restful-api-service-in-golang-using-gin-gonic-framework-85b1a6e176f3) 
   - [中文翻译版](https://learnku.com/golang/t/24598)
 - [go语言高级实战](https://github.com/Shitaibin/golang_step_by_step)
+- [go 语言论坛实战](https://xueyuanjun.com/post/21519)
 
 
 ## go源码分析
