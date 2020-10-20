@@ -37,6 +37,7 @@
   - [Jupiter](#Jupiter)
   - [TarsGo](#TarsGo)
   - [go-zero](#go-zero)
+  - [odin](#odin)
 - [rpc](#rpc)
 - [Go书籍](#Go书籍)
 - [常见问题和错误](#常见问题和错误)
@@ -163,6 +164,10 @@
 
 ## go-zero
 - [go-zero](https://github.com/tal-tech/go-zero)
+
+## odin
+- [odin](https://github.com/tal-tech/odin)
+- [doc](https://www.yuque.com/tal-tech/odin/readme)
 
 ## rpc
 - [gRPC-go](https://github.com/grpc/grpc-go)
