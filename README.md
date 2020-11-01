@@ -121,7 +121,23 @@
 - [golang数据结构内部实现](https://zhuanlan.zhihu.com/goroutine)
 - [从Questions学习Go](https://github.com/qcrao/Go-Questions/wiki)
 - 深度解密系列 [slice](https://www.cnblogs.com/qcrao-2018/p/10631989.html)、[interface](https://www.cnblogs.com/qcrao-2018/p/10766091.html)、[reflection](https://www.cnblogs.com/qcrao-2018/p/10822655.html)、[map](https://www.cnblogs.com/qcrao-2018/p/10903807.html)、[context](https://www.cnblogs.com/qcrao-2018/p/11007503.html)、[unsafe](https://www.cnblogs.com/qcrao-2018/p/10964692.html)、[channel](https://www.cnblogs.com/qcrao-2018/p/11220651.html)、[scheduler](https://www.cnblogs.com/qcrao-2018/p/11442998.html)、[defer](https://www.cnblogs.com/qcrao-2018/p/10367346.html)、[memory](https://www.cnblogs.com/qcrao-2018/p/10520785.html)、[sync.Pool](https://www.cnblogs.com/qcrao-2018/p/12736031.html)、[sync.map](https://www.cnblogs.com/qcrao-2018/p/12833787.html)
-- [深度解析GPM系列 一](https://qcrao.com/2019/09/06/dive-into-go-scheduler-source-code/) [二](https://qcrao.com/2019/09/04/go-scheduler-init/) [三](https://qcrao.com/2019/09/04/go-scheduler-the-birth-of-main-goroutine/) [四](https://qcrao.com/2019/09/04/go-scheduler-stack-switch-between-g0-and-user-goroutine/) [五](https://qcrao.com/2019/09/04/go-scheduler-start-schedule-cycle/)  [六](https://qcrao.com/2019/09/06/go-scheduler-life-of-goroutine/) [七](https://qcrao.com/2019/09/06/go-scheduler-cycle-of-schedul/) [八](https://qcrao.com/2019/09/06/go-scheduler-m-finds-work/) [九](https://qcrao.com/2019/09/06/go-scheduler-what-sysmon-does/) [十](https://qcrao.com/2019/09/06/go-scheduler-state-diagram-of-gpm/)
+- [深度解析GPM系列]
+  - [GPM 是什么](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/gpm-shi-shi-mo)
+  - [什么是 go schedule](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/shi-mo-shi-go-shceduler)
+  - [什么是 M:N 模型](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/shi-mo-shi-mn-mo-xing)
+  - [什么是 workstealing](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/shi-mo-shi-workstealing)
+  - [Schedule 的初始化过程](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/miao-shu-scheduler-de-chu-shi-hua-guo-cheng)
+  - [Schedule 循环如何启动](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/schedule-xun-huan-ru-he-qi-dong)
+  - [Schedule 循环如何运转](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/schedule-xun-huan-ru-he-yun-zhuan)
+  - [goroutine 和线程的区别](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/goroutine-he-xian-cheng-de-qu-bie)
+  - [main goroutine 如何创建](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/mian-gorutine-ru-he-chuang-jian)
+  - [g0 栈和用户栈如何切换](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/g0-zhan-he-yong-hu-zhan-ru-he-qie-huan)
+  - [goroutine 调度时机有哪些](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/goroutine-tiao-du-shi-ji-you-na-xie)
+  - [M 如何找工作](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/m-ru-he-zhao-gong-zuo)
+  - [sysmon 后台监控线程做了什么](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/sysmon-hou-tai-jian-kong-xian-cheng-zuo-le-shi-mo)
+  - [goroutine 如何退出](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/goroutine-ru-he-tui-chu)
+  - [一个调度相关的陷阱](https://qcrao91.gitbook.io/go/goroutine-tiao-du-qi/yi-ge-tiao-du-xiang-guan-de-xian-jing)
+  
 
 
 ## 微服务
@@ -218,6 +234,6 @@
 - [go每日一库](https://github.com/darjun/go-daily-lib)
   
 - [golang-design](https://github.com/golang-design) changkun 大大最新开源的golang相关项目
- - [golang-design site](https://golang.design/)
+  - [golang-design site](https://golang.design/)
  
 [返回目录](#目录)
