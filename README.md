@@ -106,7 +106,7 @@
   - [中文翻译版](https://learnku.com/golang/t/24598)
 - [go语言高级实战](https://github.com/Shitaibin/golang_step_by_step)
 - [go 语言论坛实战](https://xueyuanjun.com/post/21519)
-
+- [beego web应用开发](https://blog.csdn.net/u010986776/category_10520963.html)
 
 ## go源码分析
 
