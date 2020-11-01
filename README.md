@@ -96,7 +96,7 @@
   
 ## go项目实战
 
-- [go小项目实战系列](https://blog.csdn.net/u010986776/article/category/8095305)
+- [go小项目实战系列](https://www.jianshu.com/nb/40576814)
 - [gin框架实战系列](https://youngxhui.top/categories/gin/)
   - [github代码地址](https://github.com/youngxhui/GinHello)
 - [beego框架开发轻博客实战系列](https://www.jianshu.com/nb/27703855)
@@ -120,7 +120,7 @@
 - [源码分析 3](https://zhuanlan.zhihu.com/c_1010470599088594944)  [二](https://zhuanlan.zhihu.com/golang-internal) 
 - [golang数据结构内部实现](https://zhuanlan.zhihu.com/goroutine)
 - [从Questions学习Go](https://github.com/qcrao/Go-Questions/wiki)
-- 深度解密系列 [slice](https://qcrao.com/2019/04/02/dive-into-go-slice/)、[interface](https://qcrao.com/2019/04/25/dive-into-go-interface/)、[reflection](https://qcrao.com/2019/05/07/dive-into-go-reflection/)、[map](https://qcrao.com/2019/05/22/dive-into-go-map/)、[context](https://qcrao.com/2019/06/12/dive-into-go-context/)、[unsafe](https://qcrao.com/2019/06/03/dive-into-go-unsafe/)、[channel](https://qcrao.com/2019/07/22/dive-into-go-channel/)、[scheduler](https://qcrao.com/2019/09/02/dive-into-go-scheduler/)、[defer](https://qcrao.com/2019/02/12/how-to-keep-off-trap-of-defer/)、[memory](https://qcrao.com/2019/03/13/graphic-go-memory-allocation/)
+- 深度解密系列 [slice](https://www.cnblogs.com/qcrao-2018/p/10631989.html)、[interface](https://www.cnblogs.com/qcrao-2018/p/10766091.html)、[reflection](https://www.cnblogs.com/qcrao-2018/p/10822655.html)、[map](https://www.cnblogs.com/qcrao-2018/p/10903807.html)、[context](https://www.cnblogs.com/qcrao-2018/p/11007503.html)、[unsafe](https://www.cnblogs.com/qcrao-2018/p/10964692.html)、[channel](https://www.cnblogs.com/qcrao-2018/p/11220651.html)、[scheduler](https://www.cnblogs.com/qcrao-2018/p/11442998.html)、[defer](https://www.cnblogs.com/qcrao-2018/p/10367346.html)、[memory](https://www.cnblogs.com/qcrao-2018/p/10520785.html)、[sync.Pool](https://www.cnblogs.com/qcrao-2018/p/12736031.html)、[sync.map](https://www.cnblogs.com/qcrao-2018/p/12833787.html)
 - [深度解析GPM系列 一](https://qcrao.com/2019/09/06/dive-into-go-scheduler-source-code/) [二](https://qcrao.com/2019/09/04/go-scheduler-init/) [三](https://qcrao.com/2019/09/04/go-scheduler-the-birth-of-main-goroutine/) [四](https://qcrao.com/2019/09/04/go-scheduler-stack-switch-between-g0-and-user-goroutine/) [五](https://qcrao.com/2019/09/04/go-scheduler-start-schedule-cycle/)  [六](https://qcrao.com/2019/09/06/go-scheduler-life-of-goroutine/) [七](https://qcrao.com/2019/09/06/go-scheduler-cycle-of-schedul/) [八](https://qcrao.com/2019/09/06/go-scheduler-m-finds-work/) [九](https://qcrao.com/2019/09/06/go-scheduler-what-sysmon-does/) [十](https://qcrao.com/2019/09/06/go-scheduler-state-diagram-of-gpm/)
 
 
