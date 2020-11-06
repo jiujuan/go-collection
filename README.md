@@ -214,7 +214,7 @@
 - [go技术日报](https://studygolang.com/go/godaily)
 - [gopherdaily](https://github.com/bigwhite/gopherdaily)
 - [Go夜读](https://reading.developerlearning.cn/)
-
+- [Go开发关键技术指南](https://github.com/ossrs/srs/wiki/GoDevGuide)
 - [go每日一库](https://github.com/darjun/go-daily-lib)
   
 - [golang-design](https://github.com/golang-design) changkun 大大最新开源的golang相关项目
