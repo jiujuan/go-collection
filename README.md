@@ -215,6 +215,7 @@
   - [go news 二](https://github.com/Han-Ya-Jun/gocn_news_set)
 - [go技术日报](https://studygolang.com/go/godaily)
 - [gopherdaily](https://github.com/bigwhite/gopherdaily)
+- [go语言爱好者周刊](https://github.com/polaris1119/golangweekly)
 - [Go夜读](https://github.com/talkgo/night)
 - [Go开发关键技术指南](https://github.com/ossrs/srs/wiki/GoDevGuide)
 - [go每日一库](https://github.com/darjun/go-daily-lib)
