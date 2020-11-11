@@ -222,5 +222,7 @@
   
 - [golang-design](https://github.com/golang-design) changkun 大大最新开源的golang相关项目
   - [golang-design site](https://golang.design/)
+  
+- [List of Golang books](https://github.com/dariubs/GoBooks)
  
 [返回目录](#目录)
