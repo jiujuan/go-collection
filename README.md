@@ -115,7 +115,7 @@
   - [网站阅读版](https://changkun.de/golang/)
 - [Go 语言设计与实现 - 面向信仰编程](https://draveness.me/golang/)
 
-- [源码分析 1](https://github.com/cch123/golang-notes) 主要是源码分析，可能也会有一些使用上的知识点
+- [源码分析 1-曹大&柴大](https://github.com/cch123/golang-notes) 主要是源码分析，可能也会有一些使用上的知识点
 - [源码分析 2](https://github.com/xuesongbj/Go-Notes) go源码剖析
 - [源码分析 3](https://zhuanlan.zhihu.com/c_1010470599088594944)  [二](https://zhuanlan.zhihu.com/golang-internal) 
 - [golang数据结构内部实现](https://zhuanlan.zhihu.com/goroutine)
