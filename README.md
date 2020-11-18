@@ -31,7 +31,7 @@
 - [go项目实战](#go项目实战)
 - [go架构和源码分析](#go架构和源码分析)
 - [微服务](#微服务)
-  - [go-micro->nitro](#go-micro->nitro)
+  - [nitro(原go-micro)](#nitro)
   - [go-kit](#go-kit)
   - [kratos](#kratos)
   - [Jupiter](#Jupiter)
@@ -128,8 +128,8 @@
 
 ## 微服务
 
-## go-micro->nitro
-- [nitro](https://github.com/asim/nitro)
+## nitro
+- [nitro(原go-micro)](https://github.com/asim/nitro)
 
 - [micro](https://github.com/micro/micro)
 - [Micro-blog](https://medium.com/microhq)
