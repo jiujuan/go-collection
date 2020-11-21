@@ -146,7 +146,6 @@
 - [go-kit](https://github.com/go-kit/kit)
 - [go-kit系列教程](https://juejin.im/post/5c861c93f265da2de7138615)
 - [go-kit与grpc结合开发微服务](http://www.articlechain.cn/post/46.html)
-- [go-kit cn](http://go-kit.cn/)
 
 ## Stack-Labs
 > 由于 go-micro 停更，中国团队基于 go-micro 1.18修改，开发了第一版 stack-rpc。该项目于 2020 年 11 月 2 日正式成立。[github](https://github.com/stack-labs/stack-rpc)
