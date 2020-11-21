@@ -32,12 +32,14 @@
 - [go架构和源码分析](#go架构和源码分析)
 - [微服务](#微服务)
   - [nitro(原go-micro)](#nitro)
-  - [Stack-Labs](#Stack-Labs)
   - [go-kit](#go-kit)
+  - [Stack-Labs](#Stack-Labs)
+ 
+  - [go-zero](#go-zero)
   - [kratos](#kratos)
   - [Jupiter](#jupiter)
   - [TarsGo](#tarsgo)
-  - [go-zero](#go-zero)
+  
   - [odin](#odin)
 - [rpc](#rpc)
 - [Go书籍](#Go书籍)
@@ -139,6 +141,13 @@
 - [Learn Micro by examples](https://github.com/micro/examples)
 - [microhq](https://medium.com/microhq)
 
+## go-kit
+
+- [go-kit](https://github.com/go-kit/kit)
+- [go-kit系列教程](https://juejin.im/post/5c861c93f265da2de7138615)
+- [go-kit与grpc结合开发微服务](http://www.articlechain.cn/post/46.html)
+- [go-kit cn](http://go-kit.cn/)
+
 ## Stack-Labs
 > 由于 go-micro 停更，中国团队基于 go-micro 1.18修改，开发了第一版 stack-rpc。该项目于 2020 年 11 月 2 日正式成立。[github](https://github.com/stack-labs/stack-rpc)
 
@@ -150,12 +159,8 @@
 - [stack-rpc-tutorials](https://github.com/stack-labs/stack-rpc-tutorials)
 - [stack-rpc Docs](https://microhq.cn/docs/micro/introduce-cn) 
 
-## go-kit
-
-- [go-kit](https://github.com/go-kit/kit)
-- [go-kit系列教程](https://juejin.im/post/5c861c93f265da2de7138615)
-- [go-kit与grpc结合开发微服务](http://www.articlechain.cn/post/46.html)
-- [go-kit cn](http://go-kit.cn/)
+## go-zero
+- [go-zero](https://github.com/tal-tech/go-zero)
 
 ## kratos
 - [kratos](https://github.com/go-kratos/kratos) bilibili开源的一套微服务框架
@@ -173,8 +178,6 @@
 - [tarscloud官网](https://tarscloud.org/) tarscloud 官网
 - [TarsFramework](https://github.com/TarsCloud/TarsFramework)
 
-## go-zero
-- [go-zero](https://github.com/tal-tech/go-zero)
 
 ## odin
 - [odin](https://github.com/tal-tech/odin)
