@@ -32,6 +32,7 @@
 - [go架构和源码分析](#go架构和源码分析)
 - [微服务](#微服务)
   - [nitro(原go-micro)](#nitro)
+  - [Stack Labs](#Stack Labs)
   - [go-kit](#go-kit)
   - [kratos](#kratos)
   - [Jupiter](#Jupiter)
@@ -129,18 +130,25 @@
 ## 微服务
 
 ## nitro
+> 原 go-micro 姓名变更为 asim 的个人项目，名字改为 [nitro](https://github.com/asim/nitro)。
+
 - [nitro(原go-micro)](https://github.com/asim/nitro)
+- [nitro site](https://gonitro.dev/)
 
 - [micro](https://github.com/micro/micro)
-- [Micro-blog](https://medium.com/microhq)
-- [Micro docs](https://dev.micro.mu/)
-- [Micro tutorials](https://dev.micro.mu/getting-started)
 - [Learn Micro by examples](https://github.com/micro/examples)
-- [Micro 中国](https://microhq.cn/index-cn)
-  - [github](https://github.com/micro-in-cn/)
-- [Micro教程系列](https://github.com/micro-in-cn/tutorials)
-- [Micro 中国 Docs](https://microhq.cn/docs/micro/introduce-cn) 
 - [microhq](https://medium.com/microhq)
+
+## Stack Labs
+> 由于 go-micro 停更，中国团队基于 go-micro 1.18修改，开发了第一版 stack-rpc。该项目于 2020 年 11 月 2 日正式成立。[github](https://github.com/stack-labs/stack-rpc)
+
+- [Stack Labs](https://github.com/stack-labs)
+- [stack-rpc](https://github.com/stack-labs/stack-rpc)
+- [Micro-blog](https://medium.com/microhq)
+
+- [Stack Labs site](https://microhq.cn/index-cn)
+- [stack-rpc-tutorials](https://github.com/stack-labs/stack-rpc-tutorials)
+- [stack-rpc Docs](https://microhq.cn/docs/micro/introduce-cn) 
 
 ## go-kit
 
