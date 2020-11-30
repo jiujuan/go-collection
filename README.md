@@ -37,6 +37,7 @@
  
   - [go-zero](#go-zero)
   - [kratos](#kratos)
+  - [go-chassis](#go-chassis)
   - [Jupiter](#jupiter)
   - [TarsGo](#tarsgo)
   
@@ -166,6 +167,9 @@
   - [go-kratos](https://github.com/go-kratos)
 - [kratos summary](https://github.com/go-kratos/kratos/blob/master/doc/wiki-cn/summary.md)
   - [kratos wiki](https://github.com/go-kratos/kratos/tree/master/doc/wiki-cn)
+
+## go-chassis
+- [go-chassis](https://github.com/go-chassis/go-chassis)
 
 ## Jupiter
 - [Jupiter](https://github.com/douyu/jupiter) 斗鱼开源的面向服务治理的Golang微服务框架
