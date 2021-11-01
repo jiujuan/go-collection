@@ -44,6 +44,7 @@
   - [odin](#odin)
 - [rpc](#rpc)
 - [Go书籍](#Go书籍)
+- [pprof](#pprof)
 - [常见问题和错误](#常见问题和错误)
 - [其他](#其他)
 
@@ -210,6 +211,9 @@
 - [go专家编程](https://github.com/RainbowMango/GoExpertProgramming)
 - [go under the hood](https://github.com/changkun/go-under-the-hood)
 - [Go-Mega](https://go-mega.bonfy.im/)
+
+## pprof
+- [go-profiler-notes(DataDog)](https://github.com/DataDog/go-profiler-notes)
 
 ## 常见问题和错误
 - [Go 语言中通道死锁经典错误案例详解](https://segmentfault.com/a/1190000022820306)
