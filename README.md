@@ -214,6 +214,7 @@
 
 ## pprof
 - [go-profiler-notes(DataDog)](https://github.com/DataDog/go-profiler-notes)
+- [diagnostics](https://golang.org/doc/diagnostics)
 
 ## 常见问题和错误
 - [Go 语言中通道死锁经典错误案例详解](https://segmentfault.com/a/1190000022820306)
