@@ -240,6 +240,7 @@
 - [Go夜读](https://github.com/talkgo/night)
 - [Go开发关键技术指南](https://github.com/ossrs/srs/wiki/GoDevGuide)
 - [go每日一库](https://github.com/darjun/go-daily-lib)
+- [go-advice](https://github.com/cristaloleg/go-advice)
   
 - [golang-design](https://github.com/golang-design) changkun 大大最新开源的golang相关项目
   - [golang-design site](https://golang.design/)
