@@ -217,6 +217,7 @@
 - [diagnostics](https://golang.org/doc/diagnostics)
 
 ## 常见问题和错误
+
 - [Go 语言中通道死锁经典错误案例详解](https://segmentfault.com/a/1190000022820306)
 - [Go 项目开发里最常犯的 10 个错误](https://learnku.com/articles/38669)
 - [Go新手可能会踩的50个坑](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
@@ -224,6 +225,7 @@
 
 ## 其他
 
+- [golang doc](https://golang.org/doc/)
 - [go工具链](https://www.alexedwards.net/blog/an-overview-of-go-tooling) 
 - [go官方语言编码规范](https://github.com/golang/go/wiki/CodeReviewComments) 
 - [无闻的go语言编码规范](https://github.com/Unknwon/go-code-convention/blob/master/zh-CN/README.md)
