@@ -167,8 +167,8 @@
 ## kratos
 - [kratos](https://github.com/go-kratos/kratos) bilibili开源的一套微服务框架
   - [go-kratos](https://github.com/go-kratos)
-- [kratos summary](https://github.com/go-kratos/kratos/blob/master/doc/wiki-cn/summary.md)
-  - [kratos wiki](https://github.com/go-kratos/kratos/tree/master/doc/wiki-cn)
+- [kratos 官网](https://go-kratos.dev/)
+  - [kratos doc文档](https://go-kratos.dev/docs/)
 
 ## go-chassis
 - [go-chassis](https://github.com/go-chassis/go-chassis)
