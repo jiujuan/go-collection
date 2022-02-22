@@ -161,7 +161,8 @@
 - [stack-rpc Docs](https://microhq.cn/docs/micro/introduce-cn) 
 
 ## go-zero
-- [go-zero](https://github.com/tal-tech/go-zero)
+- [go-zero github](https://github.com/zeromicro/go-zero)
+- [go-zero doc文档](https://go-zero.dev/cn/)
 
 ## kratos
 - [kratos](https://github.com/go-kratos/kratos) bilibili开源的一套微服务框架
