@@ -46,6 +46,7 @@
 - [Go书籍](#Go书籍)
 - [pprof](#pprof)
 - [常见问题和错误](#常见问题和错误)
+- [Go日报周刊](#Go日报周刊)
 - [其他](#其他)
 
 
@@ -224,6 +225,13 @@
 - [Go新手可能会踩的50个坑](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
   - [翻译版](https://segmentfault.com/a/1190000013739000)
 
+## Go日报周刊
+- [gocn每日新闻 一](https://github.com/gocn/news) 
+  - [go news 二](https://github.com/Han-Ya-Jun/gocn_news_set)
+- [go技术日报](https://studygolang.com/go/godaily)
+- [gopherdaily](https://github.com/bigwhite/gopherdaily)
+- [go语言爱好者周刊](https://github.com/polaris1119/golangweekly)
+
 ## 其他
 
 - [golang doc](https://golang.org/doc/)
@@ -235,11 +243,6 @@
   - [中文版](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
 - [编写可维护 Go 语言代码建议](https://github.com/llitfkitfk/go-best-practice)
 - [go各种自学资料总结](https://github.com/overnote/golang)
-- [gocn每日新闻 一](https://github.com/gocn/news) 
-  - [go news 二](https://github.com/Han-Ya-Jun/gocn_news_set)
-- [go技术日报](https://studygolang.com/go/godaily)
-- [gopherdaily](https://github.com/bigwhite/gopherdaily)
-- [go语言爱好者周刊](https://github.com/polaris1119/golangweekly)
 - [Go夜读](https://github.com/talkgo/night)
 - [Go开发关键技术指南](https://github.com/ossrs/srs/wiki/GoDevGuide)
 - [go每日一库](https://github.com/darjun/go-daily-lib)
