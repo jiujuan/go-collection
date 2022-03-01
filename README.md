@@ -47,6 +47,7 @@
 - [pprof](#pprof)
 - [常见问题和错误](#常见问题和错误)
 - [Go日报周刊](#Go日报周刊)
+- [Go交流社区](#Go交流社区)
 - [其他](#其他)
 
 
@@ -231,6 +232,13 @@
 - [go技术日报](https://studygolang.com/go/godaily)
 - [gopherdaily](https://github.com/bigwhite/gopherdaily)
 - [go语言爱好者周刊](https://github.com/polaris1119/golangweekly)
+
+## Go交流社区
+- [GoCN社区](https://gocn.vip/)
+- [Go语言中文网](https://studygolang.com/)
+- [Golang中国](https://www.golangtc.com/)
+- [Go Forum](https://forum.golangbridge.org/)
+- [stackoverflow go](https://stackoverflow.com/collectives/go)
 
 ## 其他
 
