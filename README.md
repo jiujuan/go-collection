@@ -232,6 +232,7 @@
 - [go技术日报](https://studygolang.com/go/godaily)
 - [gopherdaily](https://github.com/bigwhite/gopherdaily)
 - [go语言爱好者周刊](https://github.com/polaris1119/golangweekly)
+- [golang weekly](https://www.golangweekly.com/)
 
 ## Go交流社区
 - [GoCN社区](https://gocn.vip/)
