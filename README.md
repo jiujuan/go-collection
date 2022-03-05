@@ -93,6 +93,7 @@
 - [go web开发教程](https://github.com/bonfy/go-mega)
 - [聚合多套golang教程](https://hackr.io/tutorials/learn-golang)
 - [go命令教程](https://github.com/hyper0x/go_command_tutorial)
+- [go exmaples](https://github.com/yakuter/go-interfaces)
 
 
 ## go标准库
