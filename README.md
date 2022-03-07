@@ -95,6 +95,8 @@
 - [go命令教程](https://github.com/hyper0x/go_command_tutorial)
 - [go exmaples](https://github.com/yakuter/go-interfaces)
 
+- [Go 综合学习demo](https://github.com/pibigstar/go-demo) 入门到进阶，基础库使用、设计模式、工具类、对接第三方等等
+
 
 ## go标准库
 - [golang pkg](https://golang.org/pkg/)
