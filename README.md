@@ -238,6 +238,7 @@
 - [golang weekly](https://www.golangweekly.com/)
 
 ## Go交流社区
+- [Go issues](https://github.com/golang/go/issues)
 - [GoCN社区](https://gocn.vip/)
 - [Go语言中文网](https://studygolang.com/)
 - [Golang中国](https://www.golangtc.com/)
