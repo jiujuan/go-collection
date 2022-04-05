@@ -266,6 +266,7 @@
   - [golang-design site](https://golang.design/)
 
 - [topgoer地鼠文档](https://www.topgoer.com/) 一个很全的 Go 学习系列
+- [topgoer地鼠文档2](https://www.topgoer.cn/) 各种Go相关学习资料
   
 - [List of Golang books](https://github.com/dariubs/GoBooks)
 
