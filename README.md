@@ -156,17 +156,6 @@
 - [go-kit系列教程](https://juejin.im/post/5c861c93f265da2de7138615)
 - [go-kit与grpc结合开发微服务](http://www.articlechain.cn/post/46.html)
 
-## Stack-Labs
-> 由于 go-micro 停更，中国团队基于 go-micro 1.18修改，开发了第一版 stack-rpc。该项目于 2020 年 11 月 2 日正式成立。[github](https://github.com/stack-labs/stack-rpc)
-
-- [Stack Labs](https://github.com/stack-labs)
-- [stack-rpc](https://github.com/stack-labs/stack-rpc)
-- [Micro-blog](https://medium.com/microhq)
-
-- [Stack Labs site](https://microhq.cn/index-cn)
-- [stack-rpc-tutorials](https://github.com/stack-labs/stack-rpc-tutorials)
-- [stack-rpc Docs](https://microhq.cn/docs/micro/introduce-cn) 
-
 ## go-zero
 - [go-zero github](https://github.com/zeromicro/go-zero)
 - [go-zero doc文档](https://go-zero.dev/cn/)
@@ -179,6 +168,7 @@
 
 ## go-chassis
 - [go-chassis](https://github.com/go-chassis/go-chassis)
+- [go-chassis doc](https://go-chassis.readthedocs.io/en/latest/)
 
 ## Jupiter
 - [Jupiter](https://github.com/douyu/jupiter) 斗鱼开源的面向服务治理的Golang微服务框架
@@ -189,6 +179,17 @@
 - [TarsCloud](https://github.com/TarsCloud) 
 - [tarscloud官网](https://tarscloud.org/) tarscloud 官网
 - [TarsFramework](https://github.com/TarsCloud/TarsFramework)
+
+## Stack-Labs
+> 由于 go-micro 停更，中国团队基于 go-micro 1.18修改，开发了第一版 stack-rpc。该项目于 2020 年 11 月 2 日正式成立。[github](https://github.com/stack-labs/stack-rpc)
+
+- [Stack Labs](https://github.com/stack-labs)
+- [stack-rpc](https://github.com/stack-labs/stack-rpc)
+- [Micro-blog](https://medium.com/microhq)
+
+- [Stack Labs site](https://microhq.cn/index-cn)
+- [stack-rpc-tutorials](https://github.com/stack-labs/stack-rpc-tutorials)
+- [stack-rpc Docs](https://microhq.cn/docs/micro/introduce-cn) 
 
 ## gizmo
 - [gizmo](https://github.com/nytimes/gizmo) nytimes
