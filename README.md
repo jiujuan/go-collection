@@ -21,7 +21,7 @@
 - :pencil2: 如果有的链接失效了，可以给我发[issues](https://github.com/jiujuan/go-collection/issues)，灰常感谢！
 
 - :memo: 如果您觉得有好的golang教程、源码分析文章、书籍等等，都可以给我发[issues](https://github.com/jiujuan/go-collection/issues)，灰常感谢！
-- :star: 基础部分和项目实战部分一定要打开编辑器，动手写代码，要一个字母一个字母敲出来，这样练习才会对学习 Go 基础有一定效果！
+- :star: 基础部分和项目实战部分一定要打开编辑器，**动手写代码**【**动手**】，要一个字母一个字母敲出来，这样练习才会对学习 Go 基础有一定效果！
 
 ## 目录
 
