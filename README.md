@@ -272,6 +272,8 @@
   
 - [List of Golang books](https://github.com/dariubs/GoBooks)
 
+- [Golang 导航](https://hao.studygolang.com/)
+
 - [Go 分布式事务框架 dtf](https://github.com/dtm-labs/dtf)
  
 [返回目录](#目录)
