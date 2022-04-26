@@ -11,7 +11,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/jiujuan/go-collection)](https://github.com/jiujuan/go-collection/issues)
 
 
-> 收录的awesome-go项目，学习基础系列，go项目实战，go源码分析，go开发者成长路线图等等，把他们收集起来学习。
+> 收录的awesome-go项目，学习基础系列，go项目实战，go源码分析，go开发者成长路线图等等，把他们收集起来一起学习，相当于给写 Go 程序一个动手路线图。
 
 :speaker: 觉得对您学习golang有帮助，请给我点一个 Star！ :star:
 
