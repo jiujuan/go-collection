@@ -247,6 +247,7 @@
 - [Golang中国](https://www.golangtc.com/)
 - [Go Forum](https://forum.golangbridge.org/)
 - [stackoverflow go](https://stackoverflow.com/collectives/go)
+- [Golang News](http://golangnews.com/)
 
 ## 其他
 
