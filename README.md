@@ -275,7 +275,7 @@
 
 - [Golang 导航](https://hao.studygolang.com/)
 
-- [Go 分布式事务框架 dtf](https://github.com/dtm-labs/dtf)
+- [Go 分布式事务框架 dtm](https://github.com/dtm-labs/dtm)
 
 - [测试工具 k6](https://github.com/grafana/k6)
 
