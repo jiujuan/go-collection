@@ -283,5 +283,7 @@
 - [GCTT](https://github.com/studygolang/gctt)
 
 - [Go wiki](https://github.com/golang/go/wiki)
+
+- [GO 1.20 新功能：多重错误包装](https://mp.weixin.qq.com/s/mCdvLwyZSqPNt-jb8Fbh8Q)
  
 [返回目录](#目录)
