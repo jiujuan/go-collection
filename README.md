@@ -15,6 +15,8 @@
 
 :speaker: 觉得对您学习golang有帮助，请给我点一个 Star！ :star:
 
+> 我的公众号：九卷技术录
+
 
 :mega: :mega: :mega:
 
