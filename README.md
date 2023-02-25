@@ -15,7 +15,7 @@
 
 :speaker: 觉得对您学习golang有帮助，请给我点一个 Star！ :star:
 
-> 我的公众号：九卷技术录
+> 我的公众号：[九卷技术录](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5NTcyOTY4Mg==&action=getalbum&album_id=1569180393466052609#wechat_redirect)
 
 
 :mega: :mega: :mega:
