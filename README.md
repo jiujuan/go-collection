@@ -17,6 +17,8 @@
 
 > 我的公众号：[九卷技术录](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5NTcyOTY4Mg==&action=getalbum&album_id=1569180393466052609#wechat_redirect)
 
+> 一个优秀的 IMOOC 公开课CS资源收集整理：[优秀的公开课IMOOC资源收集整理](https://github.com/jiujuan/imooc-collection)
+
 
 :mega: :mega: :mega:
 
