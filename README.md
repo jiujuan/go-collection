@@ -38,7 +38,7 @@
 - [微服务](#微服务)
   - [nitro(原go-micro)](#nitro)
   - [go-kit](#go-kit)
- 
+
   - [go-zero](#go-zero)
   - [kratos](#kratos)
   - [go-chassis](#go-chassis)
@@ -206,7 +206,7 @@
 - [rpcx](https://github.com/smallnest/rpcx)
   - [website](https://rpcx.io/)
 
-## Go书籍
+## Go开源书籍
 - [go books集合](https://github.com/dariubs/GoBooks)
 - [the way to go 中文版](https://github.com/Unknwon/the-way-to-go_ZH_CN)
   - [看云版](https://www.kancloud.cn/kancloud/the-way-to-go/72432)
@@ -289,5 +289,5 @@
 - [Go wiki](https://github.com/golang/go/wiki)
 
 - [GO 1.20 新功能：多重错误包装](https://mp.weixin.qq.com/s/mCdvLwyZSqPNt-jb8Fbh8Q)
- 
+
 [返回目录](#目录)
