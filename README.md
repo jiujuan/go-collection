@@ -286,6 +286,8 @@
 - [GoCN Translator Team 翻译的文章](https://github.com/gocn/translator)
 - [GCTT](https://github.com/studygolang/gctt)
 
+- [Go-stack tech-stack](https://github.com/g-airport/tech-stack)
+
 - [Go wiki](https://github.com/golang/go/wiki)
 
 - [GO 1.20 新功能：多重错误包装](https://mp.weixin.qq.com/s/mCdvLwyZSqPNt-jb8Fbh8Q)
