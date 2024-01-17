@@ -50,6 +50,7 @@
 - [rpc](#rpc)
 - [Go书籍](#Go书籍)
 - [pprof](#pprof)
+- [Go编码规范](#Go编码规范)
 - [常见问题和错误](#常见问题和错误)
 - [Go日报周刊](#Go日报周刊)
 - [Go交流社区](#Go交流社区)
@@ -228,6 +229,10 @@
 ## pprof
 - [go-profiler-notes(DataDog)](https://github.com/DataDog/go-profiler-notes)
 - [diagnostics](https://golang.org/doc/diagnostics)
+
+## Go编码规范
+- [the uber go style guide](https://github.com/uber-go/guide) uber go style guide
+- [awesome-go-style](https://github.com/dgryski/awesome-go-style) awesome go style
 
 ## 常见问题和错误
 
