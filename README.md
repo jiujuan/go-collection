@@ -16,7 +16,9 @@
 :speaker: 觉得对您学习golang有帮助，请给我点一个 Star！ :star:
 
 > 我的公众号：**九卷技术录** 欢迎大家关注
-> [九卷技术录-小公司需要微服务架构吗？](https://mp.weixin.qq.com/s?__biz=MjM5NTcyOTY4Mg==&mid=2247483832&idx=1&sn=811a3556ebf3e7c2bce653ec2693d0d7&chksm=a6f559c59182d0d3bb3c4b8c86048d22c8c2e182fdd9a7fafe79864081bd91ebc0e94af154cc&scene=178&cur_album_id=1569180393466052609#rd)
+> - 公众号一些文章：
+> - [九卷技术录-小公司需要微服务架构吗？](https://mp.weixin.qq.com/s/tCSjHNdKKoKV6Pu6CptK0w)
+> - [分层架构设计总结](https://mp.weixin.qq.com/s/eS___GK3n8GPe7d8sROKGw)
 
 > 一个优秀的 IMOOC 公开课CS资源收集整理：[优秀的公开课IMOOC资源收集整理](https://github.com/jiujuan/imooc-collection)
 
