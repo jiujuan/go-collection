@@ -15,6 +15,16 @@
 
 :speaker: 觉得对您学习golang有帮助，请给我点一个 Star！ :star:
 
+> 我的公众号：**九卷技术录** 欢迎大家关注
+![image](https://github.com/jiujuan/go-collection/assets/45460739/be3d1294-ede1-4282-8cdd-12a18160112d)
+
+
+> - 公众号一些文章：
+> - [九卷技术录-小公司需要微服务架构吗？](https://mp.weixin.qq.com/s/tCSjHNdKKoKV6Pu6CptK0w)
+> - [分层架构设计总结](https://mp.weixin.qq.com/s/eS___GK3n8GPe7d8sROKGw)
+
+> 一个优秀的 IMOOC 公开课CS资源收集整理：[优秀的公开课IMOOC资源收集整理](https://github.com/jiujuan/imooc-collection)
+
 
 :mega: :mega: :mega:
 
@@ -34,7 +44,7 @@
 - [微服务](#微服务)
   - [nitro(原go-micro)](#nitro)
   - [go-kit](#go-kit)
- 
+
   - [go-zero](#go-zero)
   - [kratos](#kratos)
   - [go-chassis](#go-chassis)
@@ -46,6 +56,7 @@
 - [rpc](#rpc)
 - [Go书籍](#Go书籍)
 - [pprof](#pprof)
+- [Go编码规范](#Go编码规范)
 - [常见问题和错误](#常见问题和错误)
 - [Go日报周刊](#Go日报周刊)
 - [Go交流社区](#Go交流社区)
@@ -119,6 +130,8 @@
 - [go 语言论坛实战](https://xueyuanjun.com/post/21519)
 - [beego web应用开发](https://blog.csdn.net/u010986776/category_10520963.html)
 - [企业级的 Go 语言实战项目](https://github.com/marmotedu/iam)
+- [gin-vue 小项目](https://github.com/Bingjian-Zhu/gin-vue)
+
 
 ## go架构和源码分析
 
@@ -203,7 +216,7 @@
 - [rpcx](https://github.com/smallnest/rpcx)
   - [website](https://rpcx.io/)
 
-## Go书籍
+## Go开源书籍
 - [go books集合](https://github.com/dariubs/GoBooks)
 - [the way to go 中文版](https://github.com/Unknwon/the-way-to-go_ZH_CN)
   - [看云版](https://www.kancloud.cn/kancloud/the-way-to-go/72432)
@@ -224,6 +237,10 @@
 ## pprof
 - [go-profiler-notes(DataDog)](https://github.com/DataDog/go-profiler-notes)
 - [diagnostics](https://golang.org/doc/diagnostics)
+
+## Go编码规范
+- [the uber go style guide](https://github.com/uber-go/guide) uber go style guide
+- [awesome-go-style](https://github.com/dgryski/awesome-go-style) awesome go style
 
 ## 常见问题和错误
 
@@ -276,13 +293,17 @@
 
 - [Golang 导航](https://hao.studygolang.com/)
 
-- [Go 分布式事务框架 dtf](https://github.com/dtm-labs/dtf)
+- [Go 分布式事务框架 dtm](https://github.com/dtm-labs/dtm)
 
 - [测试工具 k6](https://github.com/grafana/k6)
 
 - [GoCN Translator Team 翻译的文章](https://github.com/gocn/translator)
 - [GCTT](https://github.com/studygolang/gctt)
 
+- [Go-stack tech-stack](https://github.com/g-airport/tech-stack)
+
 - [Go wiki](https://github.com/golang/go/wiki)
- 
+
+- [GO 1.20 新功能：多重错误包装](https://mp.weixin.qq.com/s/mCdvLwyZSqPNt-jb8Fbh8Q)
+
 [返回目录](#目录)
