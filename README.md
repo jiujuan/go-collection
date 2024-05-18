@@ -129,7 +129,9 @@
 - [go语言高级实战](https://github.com/Shitaibin/golang_step_by_step)
 - [go 语言论坛实战](https://xueyuanjun.com/post/21519)
 - [beego web应用开发](https://blog.csdn.net/u010986776/category_10520963.html)
+- [企业级的 Go 语言实战项目](https://github.com/marmotedu/iam)
 - [gin-vue 小项目](https://github.com/Bingjian-Zhu/gin-vue)
+
 
 ## go架构和源码分析
 
