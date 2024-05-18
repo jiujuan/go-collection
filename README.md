@@ -16,6 +16,9 @@
 :speaker: 觉得对您学习golang有帮助，请给我点一个 Star！ :star:
 
 > 我的公众号：**九卷技术录** 欢迎大家关注
+![image](https://github.com/jiujuan/go-collection/assets/45460739/be3d1294-ede1-4282-8cdd-12a18160112d)
+
+
 > - 公众号一些文章：
 > - [九卷技术录-小公司需要微服务架构吗？](https://mp.weixin.qq.com/s/tCSjHNdKKoKV6Pu6CptK0w)
 > - [分层架构设计总结](https://mp.weixin.qq.com/s/eS___GK3n8GPe7d8sROKGw)
